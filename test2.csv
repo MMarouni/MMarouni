@@ -1,0 +1,217 @@
+Event Count,Employees,Industry,Numerical Score,Event-split,Domains
+1,1,Business Services,40,1,tui.com
+2,7,Computer/Engineering,46,1,global.ntt
+5,5,Engineering,91,3,www.uniper.energy
+0,1,Information Technology,39,0,novomind.com
+5,4,Finance,94,2,www.amundi.com
+5,7,Finance,89,2,www.natwest.com
+0,3,Manufacturing,40,0,renk-group.com
+5,7,Manufacturing,69,3,www.infineon.com
+0,1,Transportation,33,0,hermesworld.com
+5,7,Manufacturing,60,1,airbus.com
+0,1,Organizations,39,0,bvl.bund.de
+2,2,Education,43,0,centralesupelec.fr
+5,3,Organizations,65,2,inria.fr
+2,2,Education,54,0,centralesupelec.fr
+5,7,Engineering,89,0,www.airliquide.com
+2,4,Transportation,45,0,airfrance.fr
+0,3,Health Care,36,0,chu-nice.fr
+5,7,Insurance,100,4,www.axa.com
+5,7,Manufacturing,89,4,www.st.com
+0,5,Business Services,34,0,ca-indosuez.ch
+5,7,Business Services,87,2,www.soprasteria.com
+1,2,Finance,45,0,www.cembra.ch
+5,2,Finance,69,2,www.insightinvestment.com
+5,4,Finance,113,3,www.alliancebernstein.com
+2,2,Manufacturing,53,1,innocentdrinks.co.uk
+3,2,Information Technology,62,1,www.iongroup.com
+1,2,Health Care,42,0,oxleas.nhs.uk
+2,1,Finance,45,2,alcentra.com
+0,1,Business Services,40,0,emap.com
+1,4,Health Care,54,1,ncic.nhs.uk
+2,2,Manufacturing,49,1,innocentdrinks.co.uk
+5,7,Finance,98,1,www.ing.com
+2,3,Transportation,45,1,www.postoffice.co.uk
+5,4,Government,62,2,cornwall.gov.uk
+5,1,Government,61,2,socgen.com
+5,7,Engineering,95,0,www.airliquide.com
+1,1,Engineering,54,1,www.altran.com
+1,1,Real Estate,51,0,covea.fr
+1,7,Engineering,55,0,www.total.com
+0,5,Business Services,40,0,sncf.fr
+2,2,Education,55,0,centralesupelec.fr
+2,4,Transportation,45,0,airfrance.fr
+1,2,Real Estate,47,0,cdc-habitat.fr
+5,7,Engineering,100,0,www.airliquide.com
+1,7,Transportation,42,1,sncf.com
+5,5,Engineering,95,3,www.uniper.energy
+0,1,Manufacturing,34,0,renk.biz
+5,7,Transportation,100,1,www.dhl.com
+5,7,Transportation,89,1,www.dhl.com
+5,5,Business Services,85,1,www.dimensiondata.com
+0,4,Transportation,33,0,dfs.de
+5,5,Information Technology,124,1,www.paloaltonetworks.com
+1,1,Transportation,41,0,raildeliverygroup.com
+1,6,Finance,46,0,www.handelsbanken.com
+2,3,Transportation,52,1,www.postoffice.co.uk
+2,5,Finance,42,2,investec.co.uk
+5,7,Manufacturing,61,1,airbus.com
+5,1,Finance,65,4,spw.com
+5,2,Computer/Engineering,86,2,www.inmarsat.com
+3,1,Business Services,42,2,stfc.ac.uk
+2,2,Business Services,75,0,www.jisc.ac.uk
+3,5,Insurance,47,3,directlinegroup.co.uk
+5,7,Business Services,98,1,www.cognizant.com
+5,2,Finance,60,2,www.insightinvestment.com
+2,2,Business Services,60,0,www.jisc.ac.uk
+0,1,Information Technology,33,0,s21sec.com
+0,1,Business Services,37,0,wu.ac.at
+0,1,Business Services,35,0,wu.ac.at
+5,3,Engineering,98,0,www.verbund.com
+5,3,Engineering,91,0,www.verbund.com
+2,1,Manufacturing,84,2,www.anton-paar.com
+5,7,Engineering,100,2,www.veolia.com
+5,6,Manufacturing,68,1,dassault-aviation.com
+0,4,Finance,40,0,www.bred.fr
+5,2,Finance,62,2,bnpparibascardif.com
+5,3,Information Technology,92,2,www.ingenico.com
+4,7,Other,69,1,auchan-retail.com
+5,7,Manufacturing,68,3,thalesgroup.com
+0,1,Health Care,32,0,softwaymedical.fr
+5,7,Manufacturing,66,3,thalesgroup.com
+5,7,Insurance,97,2,www.generali.com
+5,7,Transportation,90,0,www.deutschebahn.com
+5,7,Transportation,95,0,www.deutschebahn.com
+1,4,Business Services,55,1,bwi.de
+2,2,Business Services,52,0,lhsystems.com
+1,4,Business Services,55,1,bwi.de
+2,5,Other,65,2,www.gi-de.com
+5,7,Manufacturing,94,2,www.basf.com
+1,1,Insurance,40,0,cargarantie.com
+5,5,Manufacturing,96,2,www.firmenich.com
+5,7,Manufacturing,62,1,siemensgamesa.com
+5,7,Manufacturing,99,2,www.roche.com
+1,1,Manufacturing,48,1,swisssign.com
+5,5,Manufacturing,89,2,www.firmenich.com
+0,1,Consumer Services,39,0,bl.ch
+1,1,Media & Internet,45,0,swisscom.com
+1,1,Media & Internet,46,0,swisscom.com
+1,1,Media & Internet,41,0,swisscom.com
+2,5,Finance,53,2,investec.co.uk
+5,7,Finance,95,2,www.natwest.com
+3,2,Information Technology,72,1,www.iongroup.com
+5,1,Finance,66,4,spw.com
+5,7,Other,116,2,www.unilever.com
+5,7,Business Services,64,2,nttdata.com
+0,7,Retail,40,0,www.dixonscarphone.com
+0,7,Retail,35,0,www.dixonscarphone.com
+2,2,Business Services,72,0,www.jisc.ac.uk
+5,7,Manufacturing,69,3,thalesgroup.com
+1,2,Information Technology,47,0,cetim.fr
+2,1,Finance,54,2,ca-indosuez.com
+5,7,Manufacturing,96,4,www.sanofi.com
+5,7,Manufacturing,124,3,www.saint-gobain.com
+5,7,Engineering,97,2,www.veolia.com
+5,7,Manufacturing,107,3,www.se.com
+0,1,Education,40,0,polytechnique.edu
+5,1,Government,69,2,socgen.com
+4,7,Other,65,1,auchan-retail.com
+0,4,Finance,30,0,bred.fr
+0,2,Transportation,31,0,cimpa.com
+5,2,Finance,64,2,bnpparibascardif.com
+1,5,Manufacturing,50,0,zeppelin.com
+1,4,Finance,51,1,helaba.com
+5,7,Manufacturing,87,1,www.boehringer-ingelheim.com
+1,3,Business Services,54,0,dataport.de
+2,5,Other,67,2,www.gi-de.com
+1,5,Business Services,41,1,telekom.de
+1,2,Finance,48,1,www.dwpbank.de
+1,5,Manufacturing,52,0,zeppelin.com
+0,1,Finance,30,0,helaba.de
+5,7,Transportation,64,1,dbschenker.com
+5,7,Transportation,70,1,dbschenker.com
+5,7,Manufacturing,121,2,www.bayer.com
+5,7,Transportation,90,0,www.deutschebahn.com
+0,1,Business Services,31,0,itsc.de
+5,7,Business Services,91,4,www.capgemini.com
+0,4,Finance,31,0,bankinter.com
+5,7,Business Services,87,2,www.soprasteria.com
+5,6,Finance,61,0,worldline.com
+5,7,Business Services,93,3,www.atos.net
+0,2,Business Services,38,0,mediapost.es
+0,5,Business Services,37,0,bankinter.es
+5,7,Manufacturing,116,2,www.bayer.com
+5,7,Transportation,95,2,www.post.ch
+5,7,Finance,130,1,www.ing.com
+5,3,Finance,100,2,www.ebrd.com
+5,4,Government,61,2,cornwall.gov.uk
+0,7,Retail,40,0,www.dixonscarphone.com
+0,5,Business Services,33,0,river-island.com
+2,1,Finance,53,2,alcentra.com
+0,2,Engineering,52,0,www.edftrading.com
+3,5,Entertainment,54,2,www.tui.co.uk
+5,7,Manufacturing,95,4,www.sanofi.com
+2,6,Computer/Engineering,82,0,www.swisscom.ch
+4,2,Finance,67,1,www.swissquote.ch
+5,6,Manufacturing,98,2,www.redbull.com
+0,2,Business Services,37,0,brz.gv.at
+0,1,Business Services,31,0,umweltbundesamt.at
+0,2,Transportation,37,0,asfinag.at
+0,2,Business Services,36,0,brz.gv.at
+5,3,Engineering,91,0,www.verbund.com
+0,4,Finance,37,0,www.zkb.ch
+5,7,Business Services,97,1,www.cognizant.com
+0,5,Organizations,58,0,www.fenaco.com
+5,2,Manufacturing,89,0,www.ypsomed.com
+2,1,Information Technology,40,0,www.twint.ch
+1,2,Finance,68,0,www.ubp.com
+5,5,Government,98,4,www.who.int
+1,5,Engineering,72,0,www.bkw.ch
+1,5,Agriculture,68,1,www.cofcointernational.com
+1,3,Finance,83,0,www.lgt.com
+1,4,Insurance,53,0,www.baloise.com
+5,7,Transportation,89,2,www.post.ch
+2,1,Information Technology,49,0,www.twint.ch
+5,7,Manufacturing,85,3,www.pmi.com
+5,7,Manufacturing,95,3,www.pmi.com
+5,7,Business Services,88,3,www.sap.com
+5,4,Consumer Services,98,2,www.leaseplan.com
+1,5,Engineering,77,0,www.bkw.ch
+4,2,Finance,61,1,www.swissquote.ch
+5,5,Business Services,65,4,swissquote.com
+4,2,Finance,60,1,www.swissquote.ch
+0,1,Retail,37,0,mercadona.com
+5,6,Finance,89,2,www.natixis.com
+3,4,Engineering,51,0,tecnicasreunidas.es
+1,1,Retail,48,1,www.elcorteingles.com
+1,1,Information Technology,78,0,www.stratio.com
+5,3,Information Technology,91,1,www.cegid.com
+5,4,Business Services,94,3,www.novozymes.com
+5,4,Business Services,87,3,www.novozymes.com
+5,4,Business Services,86,3,www.novozymes.com
+0,1,Organizations,31,0,www.ouka.fi
+0,1,Computer/Engineering,32,0,cinia.fi
+0,1,Media & Internet,30,0,apotti.fi
+0,1,Business Services,35,0,teliacygate.fi
+0,1,Computer/Engineering,30,0,cinia.fi
+0,1,Government,36,0,erillisverkot.fi
+2,2,Information Technology,64,0,www.relexsolutions.com
+0,1,Media & Internet,35,0,apotti.fi
+0,1,Media & Internet,36,0,apotti.fi
+2,2,Business Services,49,0,nordcloud.com
+5,7,Business Services,68,3,www.sap.com
+1,3,Computer/Engineering,69,1,www.nrk.no
+1,4,Government,45,1,www.vegvesen.no
+1,3,Computer/Engineering,72,1,www.nrk.no
+2,6,Transportation,46,0,www.posten.no
+5,6,Business Services,85,2,www.sogeti.com
+5,6,Business Services,64,1,www.tietoevry.com
+1,2,Business Services,47,0,www.sogeti.se
+5,6,Business Services,62,1,www.tietoevry.com
+0,1,Entertainment,35,0,www.uppsala.se
+1,4,Insurance,53,1,www.lansforsakringar.se
+5,6,Business Services,69,1,www.tietoevry.com
+5,7,Retail,66,2,www.ikea.com
+5,7,Manufacturing,86,2,www.scania.com
+1,1,Consumer Services,65,0,www.wasakredit.se
+1,1,Computer/Engineering,49,0,www.lynkco.com
